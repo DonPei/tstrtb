@@ -35,7 +35,8 @@ fi
 if [$# == 2] 
 then
 	echo "All Arguments values:" $@
-	mode=$1 
-	inputfile=$2
-    ${LAUNCH_HOME}/jre/bin/java -d64 -Xms512m -Xmx4096m -showversion -Drtb.dir=$LAUNCH_HOME -Djava.library.path=$LIBRARYPATH -Djava.resources.path=$RESOURCESPATH -Djava.history.path=$HISTORYPATH -cp $CLASSPATH edu.uth.app.qac.QacApp $mode $inputfile
+	tool_id=$1 
+	input_file=$2
+	dictionary_file=$3
+    ${LAUNCH_HOME}/jre/bin/java -d64 -Xms512m -Xmx4096m -showversion -Drtb.dir=$LAUNCH_HOME -Djava.library.path=$LIBRARYPATH -Djava.resources.path=$RESOURCESPATH -Djava.history.path=$HISTORYPATH -cp $CLASSPATH edu.uth.app.qac.QacApp $tool_id $input_file $dictionary_file
 fi

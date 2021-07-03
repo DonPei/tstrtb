@@ -37,16 +37,17 @@ IF /I %0 EQU "%~dpnx0" (
 	-cp %CLASSPATH% edu.uth.app.launcher.LauncherApp
 	PAUSE
 ) 
-IF "%1" == "1" (
-	SET /A MODE=%1
+
+SET /A tool_id=%1
+rem echo %tool_id%
+IF %tool_id% LEQ 3 (
 	SET INPUTFILE=%~f2
-	echo I am here %MODE% %INPUTFILE%
+	SET DICTIONARYFILE=%~f3
+	rem echo %tool_id% %INPUTFILE% %DICTIONARYFILE%
 
     %LAUNCH_HOME%jre\bin\java -d64 -Xms512m -Xmx4096m -showversion -Drtb.dir=%LAUNCH_HOME% ^
 	-Djava.library.path=%LIBRARYPATH% -Djava.resources.path=%RESOURCESPATH% -Djava.history.path=%HISTORYPATH% ^
-	-cp %CLASSPATH% edu.uth.app.qac.QacApp %MODE% %INPUTFILE%
-	
-	PAUSE	
+	-cp %CLASSPATH% edu.uth.app.qac.QacApp %tool_id% %INPUTFILE% %DICTIONARYFILE%
 )
 
 
