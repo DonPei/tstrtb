@@ -1,0 +1,25 @@
+Field Label, Field Value
+Contact PI,enter your text here
+sourceOrganization,enter your text here
+Project Title,enter your text here
+NIH Project ID,enter your text here
+Project Research Area,enter your text here
+Creator,text
+dbGap Study ID (if different from NIH Project ID),enter your text here
+description (of project),enter your text here
+keywords,enter your text here
+Vocabulary/Thesaurus used ,enter your text here
+publication url,text
+Does the study include prospective or retrospective human samples (effective Feb 2021)?,"prospective, retrospective, N/A"
+Collected the NIH Minimum CDEs for All Datasets (Prospective Human) listed here?,Yes
+Is there a NIH PO approved waiver for Minimum CDE?,Yes
+Is the Data Dictionary for ALL Data Files listed here attached?,Yes
+Name of Data Dictionary file,enter your text here
+"type of Sample Used (blood, breath, wastewater, etc.)",enter your text here
+"Method of Data Analysis (software, statistical approach)",enter your text here
+How Many Data files are in this package?,enter your text here
+"Data Files Please add additional rows as needed",enter file name here
+,enter file name here
+,enter file name here
+,enter file name here
+,enter file name here

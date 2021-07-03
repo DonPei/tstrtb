@@ -1,0 +1,362 @@
+{
+"AUTOMATIC":  [
+    {
+      "grantId":"RFA-OD-20-014",
+      "title":
+        "Detection and Automatic Privacy-Protected Contact Tracing System Designed for COVID-19",
+      "pi": "Lu Peng",
+      "institute": "Louisiana State Univ A&M Col Baton Rouge"
+    },
+    {
+      "grantId":"RFA-OD-20-014",
+      "title":
+        "Touchscreen-compatible, Real-Time Electrochemical Sensing of SARS-CoV-2",
+      "pi": "Suzie Pun",
+      "institute": "University of Washington"
+    },
+    {
+      "grantId":"RFA-OD-20-014",
+      "title":
+        "Minimal False-alarm Touch-based Detection of SARS-Cov-2 Virus Particles using Poly-aptamers",
+      "pi": "Radislav Potyrailo",
+      "institute": "General Electric Global Research Center"
+    },
+    {
+      "grantId":"RFA-OD-20-014",
+      "title":
+        "Rolosense: An Innovative Platform for Automatic Mobile Phone Readout of Active SARS-CoV-2 Particles",
+      "pi": "Khalid Salaita",
+      "institute": "Emory University"
+    },
+    {
+      "grantId":"RFA-OD-20-014",
+      "title":
+        "Nanobody-based Electrochemical Biosensor for Real-Time Detection of Aerosolized SARS-CoV-2",
+      "pi": "John Cirrito",
+      "institute": "Washington University"
+    },
+    {
+      "grantId":"RFA-OD-20-014",
+      "title":
+        "Development of an Automated Diagnostic Platform for SARS-CoV-2 Monitoring in Vulnerable Areas",
+      "pi": "Diana Vanegas",
+      "institute": "Clemson University"
+    }
+  ],
+
+  "CHEMOSENSORY": [
+    {
+      "grantId":"RFA-OD-20-022",
+      "title":
+        "Rapid Olfactory Tools for Telemedicine-friendly COVID-19 Screening and Surveillance",
+      "pi": "Steven Munger",
+      "institute": "University of Florida"
+    },
+    {
+      "grantId":"RFA-OD-20-022",
+      "title":
+        "Longitudinal at Home Smell Testing to Detect Infection by SARS-CoV-2",
+      "pi": "Daniel Tatar, Mark Albers",
+      "institute": "ADK Group, LLC"
+    },
+    {
+      "grantId":"RFA-OD-20-152",
+      "title":
+        "A Confectionary-based Screening Tool for Assessing Chemosensory Loss in COVID-19 Patients",
+      "pi": "Susan Travers",
+      "institute": "Ohio State University"
+    },
+    {
+      "grantId":"RFA-OD-20-022",
+      "title":"SCENTinel: A Rapid Smell Test for COVID-19 Surveillance",
+      "pi": "Pamela Dalton",
+      "institute": "Monell Chemical Senses Center"
+    }
+  ],
+
+  "EXOSOME": [
+    {
+      "grantId":"RFA-OD-20-018",
+      "title":
+        "AFS/SERS Saliva-based SARS-CoV-2 Earliest Infection and Antibodies Detection",
+      "pi": "David Wong",
+      "institute": "University of California, Los Angeles"
+    },
+    {
+      "grantId":"RFA-OD-20-018",
+      "title":
+        "Microfluidic Isolation and Characterization of SARS-CoV-2 and Virus Related Exosomes",
+      "pi": "Shannon Stott",
+      "institute": "Massachusetts General Hospital"
+    },
+    {
+      "grantId":"RFA-OD-20-018",
+      "title":
+        "Multi-parametric Integrated Molecular Detection of SARS-CoV-2 from Biofluids by Adapting Single Extracellular Vesicle Characterization Technologies",
+      "pi": "Eduardo Reategui",
+      "institute": "Ohio State University"
+    },
+    {
+      "grantId":"RFA-OD-20-018",
+      "title":
+        "Exosome-based Non-traditional Technologies Towards Multi-Parametric and Integrated Approaches for SARS-CoV-2",
+      "pi": "Samarjit Das",
+      "institute": "Johns Hopkins University"
+    }
+  ],
+
+  "MULTIMODAL": [
+    {
+      "grantId":"RFA-OD-20-016",
+      "title":
+        "Early Detection, Containment, and Management of COVID-19 in Dialysis Facilities Using Multi-Modal Data Sources",
+      "pi": "Yuedong Wang",
+      "institute": "University of California, Santa Barbara"
+    },
+    {
+      "grantId":"RFA-OD-20-016",
+      "title":
+        "Marshallese: Alternate Surveillance for COVID-19 in a Unique Population",
+      "pi": "Ka'imi A. Sinclair",
+      "institute": "Washington State University"
+    },
+    {
+      "grantId":"RFA-OD-20-016",
+      "title":"Validation of Smart Masks for Surveillance of COVID-19",
+      "pi": "Jesse Jokerst",
+      "institute": "University of California, San Diego"
+    },
+    {
+      "grantId":"RFA-OD-20-016",
+      "title":
+        "Multi-modal Wireless COVID Monitoring & Infection Alerts for Concentrated Populations",
+      "pi": "Michael Snyder",
+      "institute": "Stanford University"
+    }
+  ],
+
+  "NOVEL": [
+    {
+      "grantId":"NOT-OD-21-035, PA-20-272",
+      "title":"A Rapid Saliva Antigen Test for SARS-CoV-2 Detection",
+      "pi": "Mahmoud Nasr",
+      "institute": "Brigham and Women’s Hospital"
+    },
+    {
+      "grantId":"NOT-OD-21-035, PA-20-272",
+      "title":
+        "Virus Counter: Rapid and Sensitive Diagnostics Based on Digital Detection of Individual Pathogens",
+      "pi": "Selim Ünlü",
+      "institute": "Boston University"
+    },
+    {
+      "grantId":"NOT-OD-21-035, PA-20-272",
+      "title":
+        "RADx-rad: A Rapid, Sensitive, Point-of-care, Antigen-based Diagnostics for SARS-CoV-2",
+      "pi": "Hadi Shafiee",
+      "institute": "Brigham and Women's Hospital"
+    },
+    {
+      "grantId":"NOT-OD-21-035, PA-20-272",
+      "title":"A Rapid Breathalyzer Diagnostics Platform for COVID-19",
+      "pi": "Edward DeMauro",
+      "institute": "Rutgers University"
+    },
+    {
+      "grantId":"RFA-OD-20-021",
+      "title":"A SARS-CoV-2 Breathalyzer for Direct Virus Detection",
+      "pi": "Tim Gordon",
+      "institute": "Aerosol Devices, Inc."
+    },
+    {
+      "grantId":"RFA-OD-20-021",
+      "title":
+        "Designer DNA Nanostructure Based Biosensing for Rapid COVID-19 Detection and Monitoring using Saliva Sample",
+      "pi": "Xiaohu (Sherwood) Yao",
+      "institute": "Atom Bioworks, Inc."
+    },
+    {
+      "grantId":"NOT-OD-21-035, PA-20-272",
+      "title":
+        "Broad-spectrum Detection of VOC and Non-VOC Biomarkers from Patient Exhalant using Biomimetic Multiplexed eNose Biosensor for COVID-19 Diagnosis",
+      "pi": "Devin MacKenzie",
+      "institute": "University of Washington"
+    },
+    {
+      "grantId":"NOT-OD-21-035, PA-20-272",
+      "title":
+        "MOF-SCENT: Metal-organic Frameworks for Screening COVID-19 by Electronic-Nose Technology to Improve Selectivity and Time Response",
+      "pi": "Jie Huang",
+      "institute": "Missouri University of Science and Technology"
+    },
+    {
+      "grantId":"RFA-OD-20-020",
+      "title":
+        "A Scalable Aptamer-based Electrochemical Biosensor for Rapid Detection of SARS-Cov-2 from Saliva",
+      "pi": "Mark Bobrow",
+      "institute": "mPOD, Inc."
+    },
+    {
+      "grantId":"RFA-OD-20-020",
+      "title":
+        "Direct Bioelectronic Detection of SARS-Cov-2 from Saliva using Singlemolecule Field-effect Transistor Array",
+      "pi": "Erik Young",
+      "institute": "Quicksilver Biosciences, Inc."
+    },
+    {
+      "grantId":"RFA-OD-20-021",
+      "title":"A Multimodal Platform for Oral Screening of COVID-19",
+      "pi": "Roya Khosravi-Far",
+      "institute": "Innotech, LLC"
+    }
+  ],
+
+  "PREVAILKIDS": [
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "Severity Predictors Integrating Salivary Transcriptomics and Proteomics with Multi Neural Network Intelligence in SARS-CoV2 Infection in Children (SPITS MISC)",
+      "pi": "Usha Sethuraman",
+      "institute": "Central Michigan University"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "Identifying Biomarker Signatures of Prognostic Value for Multisystem Inflammatory Syndrome in Children (MIS-C)",
+      "pi": "Juan Salazar",
+      "institute": "Connecticut Children's Medical Center"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "COVID-19 Network of Networks Expanding Clinical and Translational Approaches to Predict Severe Illness in Children (CONNECT to Predict Sick Children)",
+      "pi": "Lawrence Kleinman",
+      "institute": "Robert Wood Johnson Medical School"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":"Diagnosis of MIS-C in Febrile Children",
+      "pi": "Audrey Odom John",
+      "institute": "Children's Hospital of Philadelphia"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "AICORE-kids: Artificial Intelligence COVID-19 Risk AssEssment for kids",
+      "pi": "Ananth Annapragada",
+      "institute": "Baylor College Of Medicine"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "Discovery and Clinical Validation of Host Biomarkers of Disease Severity and Multi-System Inflammatory Syndrome in Children (MIS-C) with COVID-19",
+      "pi": "Charles Yen Chiu",
+      "institute": "University of California, San Francisco"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "A Data Science Approach to Identify and Manage Multisystem Inflammatory Syndrome in Children (MIS-C) Associated with SARS-CoV-2 Infection and Kawasaki Disease (KD) in Pediatric Patients",
+      "pi": "Cedric Manlhiot",
+      "institute": "Johns Hopkins University"
+    },
+    {
+      "grantId":"RFA-OD-20-023",
+      "title":
+        "Diagnosing and Predicting Risk in Children with SARS-CoV-2- Related Illness",
+      "pi": "Jane Burns",
+      "institute": "University of California, San Diego"
+    }
+  ],
+
+  "SCENT": [
+    {
+      "grantId":"RFA-OD-017",
+      "title":
+        "COVID-19 Detection through Scent Analysis with a Compact GC Device",
+      "pi": "Xudong Fan",
+      "institute": "University of Michigan at Ann Arbor"
+    },
+    {
+      "grantId":"RFA-OD-20-017",
+      "title":
+        "A Handheld Microchip for GC Analysis of Breath to Screen for COVID-19",
+      "pi": "Xiao-An Fu",
+      "institute": "University of Louisville"
+    },
+    {
+      "grantId":"RFA-OD-20-017",
+      "title":"Portable GC Detector for Breath-based COVID Diagnostics",
+      "pi": "Cristina Davis",
+      "institute": "University of California, Davis"
+    },
+    {
+      "grantId":"RFA-OD-20-017",
+      "title":
+        "Effective, Reagent-free Detection of the Odor Signature of Covid-19 Infection Using a Nano-Enabled Sensor Array",
+      "pi": "Alan Johnson",
+      "institute": "University of Pennsylvania"
+    }
+  ],
+
+  "WASTEWATER": [
+    {
+      "grantId":"RFA-OD-20-015",
+      "title":
+        "Improved Scalability, Sensitivity, and Interpretability of Pathogen Detection, Including SARS-CoV-2, in Wastewater using High-Throughput, Highly Multiplexed Digital Array PCR Technology",
+      "pi": "John Michael Ramsey",
+      "institute": "University of North Carolina, Chapel Hill"
+    },
+    {
+      "grantId":"PA-20-135",
+      "title":
+        "Bioinformatics Framework for Wastewater-based Surveillance of Infectious Diseases",
+      "pi": "Matthew Scotch",
+      "institute": "Arizona State University"
+    },
+    {
+      "grantId":"RFA-OD-20-015",
+      "title":"Wastewater Detection of COVID-19",
+      "pi": "Jeff Wenzel",
+      "institute": "Missouri State Dept/ Health & Senior Services"
+    },
+    {
+      "grantId":"RFA-OD-20-015",
+      "title":
+        "Wastewater Assessment for Coronavirus in Kentucky: Implementing Enhanced Surveillance Technology",
+      "pi": "James Keck",
+      "institute": "University of Kentucky"
+    },
+    {
+      "grantId":"RFA-OD-20-015",
+      "title":
+        "Development and Proof-of-Concept Implementation of the South Florida Miami RADx-rad SARS-CoV-2 Wastewater-Based Surveillance Infrastructure",
+      "pi": "Helena Solo-Gabriele",
+      "institute": "University of Miami Coral Gables"
+    },
+    {
+      "grantId":"RFA-OD-20-015",
+      "title":
+        "Optimizing SARS-CoV-2 Wastewater Based Surveillance in Urban and University Campus Settings",
+      "pi": "Anne-Catrin Uhlemann",
+      "institute": "Columbia University Health Sciences"
+    },
+    {
+      "grantId":"RFA-OD-20-015",
+      "title":"Wastewater Analysis of SARS CoV-2 in Tribal Communities",
+      "pi": "Otakuye Conroy-Ben",
+      "institute": "Arizona State University-Tempe"
+    }
+  ],
+
+  "NIEHS": [
+    {
+      "grantId":"1ZIAES100475-19",
+      "title":
+        "Hyperplexed sample barcoded screening for SARS-CoV-2 by Next Generation Sequencing",
+      "pi": "Douglas Bell",
+      "institute": "National Institute of Environmental Health Sciences"
+    }
+  ]
+  
+}

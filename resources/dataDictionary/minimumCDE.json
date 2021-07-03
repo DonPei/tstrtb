@@ -1,0 +1,796 @@
+{
+	"concept": [
+		{
+			"id": "2A",
+			"name": "Race",
+			"question": [
+				{
+					"name": "What is your race? Mark one or more boxes",
+					"option": [
+						{
+							"type": "checkbox",
+							"name": "American Indian or Alaska Native",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Black or African American",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Asian",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Native Hawaiian or Other Pacific Islander",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "White",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Some other race",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2B",
+			"name": "Ethnicity",
+			"question": [
+				{
+					"name": "Are you of Hispanic or Latino origin?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes, of Hispanic or Latino origin",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No, not of Hispanic or Latino origin",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "3",
+			"name": "Age",
+			"question": [
+				{
+					"name": "What is your age?",
+					"option": [
+						{
+							"type": "text",
+							"name": "Age in years. For babies less than 1 year old, write 0 as the age",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "4",
+			"name": "Sex",
+			"question": [
+				{
+					"name": "What is your biological sex assigned at birth?",
+					"option": [
+						{
+							"type": "checkbox",
+							"name": "Male",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Female",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Intersex",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "None of these describe me",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "5",
+			"name": "Education",
+			"question": [
+				{
+					"name": "How many years of education have you completed?",
+					"option": [
+						{
+							"type": "text",
+							"name": "Years of education from 0 – 20+",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "6",
+			"name": "Domicile",
+			"question": [
+				{
+					"name": "Zip or Postal Code:",
+					"option": [
+						{
+							"type": "text",
+							"name": "5-digit zip code",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "7",
+			"name": "Employment",
+			"question": [
+				{
+					"name": "Are you employed?",
+					"option": [
+						{
+							"type": "checkbox",
+							"name": "Employed in a permanent position",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Employed in a temporary position",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Not currently employed",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "8",
+			"name": "Insurance status",
+			"question": [
+				{
+					"name": "What kind of health insurance do you have?",
+					"option": [
+						{
+							"type": "checkbox",
+							"name": "Private insurance",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Public insurance",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "None",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "9",
+			"name": "Disability status",
+			"question": [
+				{
+					"name": "Are you deaf or do you have serious difficulty hearing?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Are you blind or do you have serious difficulty seeing, even when wearing glasses?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Do you have serious difficulty walking or climbing stairs?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Do you have difficulty dressing or bathing?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor’s office or shopping?",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "10",
+			"name": "Medical history",
+			"question": [
+				{
+					"name": "Vaping use",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Nicotine use",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Alcohol use",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Asthma",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Cancer",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Cardiovascular disease",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Chronic kidney disease",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Chronic lung disease",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Diabetes",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Hypertension",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Immunosuppressive condition",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Serious mental illness",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Sickle cell disease",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Pregnancy status",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Currently pregnant",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "Not pregnant",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "11",
+			"name": "Symptoms",
+			"question": [
+				{
+					"name": "Cough",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Fever",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Shortness of breath or difficulty breathing",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Headache",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Muscle ache",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "New loss of taste or smell",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Chills",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Excessive fatigue",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Nausea/vomiting",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Diarrhea",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Abdominal pain",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Skin rash",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Conjunctivitis",
+					"option": [
+						{
+							"type": "yesno",
+							"name": "Yes",
+							"exception": "0"
+						},
+						{
+							"type": "yesno",
+							"name": "No",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "12",
+			"name": "Health status",
+			"question": [
+				{
+					"name": "What is your height?",
+					"option": [
+						{
+							"type": "descriptive",
+							"name": "Height in feet and inches",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "height feet",
+					"option": [
+						{
+							"type": "dropdown",
+							"name": "1,2,3,4,5,6,7,8",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "height inches",
+					"option": [
+						{
+							"type": "dropdown",
+							"name": "1,2,3,4,5,6,7,8,8,10,11,12",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "What is your height?",
+					"option": [
+						{
+							"type": "descriptive",
+							"name": "Height in feet and inches",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "What is your weight?",
+					"option": [
+						{
+							"type": "text",
+							"name": "Weight in pounds",
+							"exception": "0"
+						}
+					]
+				},
+				{
+					"name": "Would you say that (your) health in general is excellent, very good, good, fair or poor?",
+					"option": [
+						{
+							"type": "checkbox",
+							"name": "Excellent",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Very good",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Good",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Fair",
+							"exception": "0"
+						},
+						{
+							"type": "checkbox",
+							"name": "Poor",
+							"exception": "0"
+						}
+					]
+				}
+			]
+		}
+	]
+}
