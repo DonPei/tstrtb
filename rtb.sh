@@ -27,12 +27,12 @@ RESOURCESPATH=${LAUNCH_HOME}/resources
 HISTORYPATH=${LAUNCH_HOME}/history
 
 #echo "$CLASSPATH"
-if [$# == 0] 
+if [ $# == 0 ] 
 then
     ${LAUNCH_HOME}/jre/bin/java -d64 -Xms512m -Xmx4096m -showversion -Drtb.dir=$LAUNCH_HOME -Djava.library.path=$LIBRARYPATH -Djava.resources.path=$RESOURCESPATH -Djava.history.path=$HISTORYPATH -cp $CLASSPATH edu.uth.app.launcher.LauncherApp
 fi
 
-if [$# == 2] 
+if [ $# == 2 ] 
 then
 	echo "All Arguments values:" $@
 	tool_id=$1 
