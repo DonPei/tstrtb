@@ -1,5 +1,5 @@
 Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
-subject_id,form_1,Identity,text,Study ID,,study id for human-related projects,,,,,,,,,,,
+study_id,form_1,Identity,text,Study ID,,study id for human-related projects,,,,,,,,,,,
 race,form_1,Race,checkbox,What is your race? Mark one or more boxes.,"1, American Indian or Alaska Native | 2, Asian | 3, Black or African American | 4, Native Hawaiian or Other Pacific Islander | 5, White | 6, Some other race",,,,,,,,,,,,
 ethnicity,form_1,Ethnicity,checkbox,Are you of Hispanic or Latino origin?,"1, Yes, of Hispanic or Latino origin | 0, No, not of Hispanic or Latino origin",,,,,,,,,,,,
 age,form_1,Age,text,What is your age?,,"Age in years. For babies less than 1 year old, write 0 as the age",integer,0,120,,,,,,,,
